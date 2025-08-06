@@ -1,0 +1,18 @@
+# Python-specific ignores
+__pycache__/
+*.pyc
+*.pyd
+*.so
+.env
+venv/
+env/
+
+# IDE-specific ignores (e.g., VS Code)
+.vscode/
+
+# Operating System files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Generated files
+rainbow_table.json # This is an output file, generally not committed

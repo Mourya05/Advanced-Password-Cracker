@@ -1,0 +1,11 @@
+admin
+password
+123456
+welcome
+letmein
+qwerty
+dragon
+sunshine
+football
+monkey
+iloveyou

@@ -1,0 +1,13 @@
+
+This is a dummy Wi-Fi handshake capture file.
+It is for simulation and GUI testing only.
+No real packet data is present.
+
+--- Simulated WPA2 Handshake ---
+Packet 1: Beacon Frame
+Packet 2: Authentication Request
+Packet 3: Association Response
+Packet 4: 4-Way Handshake Message 1
+Packet 5: 4-Way Handshake Message 2
+Packet 6: 4-Way Handshake Message 3
+Packet 7: 4-Way Handshake Message 4
