@@ -1,4 +1,4 @@
-### Advanced Password Cracker
+# Advanced Password Cracker
 
 A powerful and user-friendly password security analysis tool designed for security professionals, penetration testers, and cybersecurity students. This toolkit provides multiple password cracking techniques through an intuitive graphical interface.
 
