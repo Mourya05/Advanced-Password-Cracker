@@ -77,6 +77,13 @@ class PasswordCrackerApp:
         
         # Start log monitoring
         self.monitor_logs()
+
+        self.update_results_loop()
+
+    def update_results_loop(self):
+        self.update_results()
+        self.root.after(100, self.update_results_loop)
+    
     
     def setup_hash_tab(self):
         """Setup the hash cracking tab"""
